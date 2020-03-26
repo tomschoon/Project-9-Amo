@@ -1,10 +1,15 @@
+/**
+	Authors: Tom Schoon, Kevin Schlangen and Nevel Senden
+	Date: 26-03-2020
+	Project: AMO Project 9: TakeAway
+**/
+
 body{
-    background: whitesmoke;
+	background: whitesmoke;
     margin: 0;
     padding: 0;
-  
-    
 }
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -14,35 +19,35 @@ ul {
     position: sticky;
     top: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-  }
+}
+
+li {
+	float: left;
+}
   
-  li {
-    float: left;
-  }
-  
-  li a {
+li a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    
-  }
+}
   
-  li a:hover {
-    background-color: #b9d5fd;
-  }
+li a:hover {
+    background-color: #B9D5FD;
+}
 
-  footer{
+footer{
     display: block;
     background-color: rgb(48, 89, 122);
     text-align: center;
     border: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-  }
-  p{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
     width: ;
     margin-left: 150px;
     margin-right: 150px;
-  }
+}
