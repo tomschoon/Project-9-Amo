@@ -5,9 +5,9 @@
 **/
 
 body{
-	background: whitesmoke;
+    background: rgb(255, 255, 255);
     margin: 0;
-    padding: 0;
+
 }
 
 ul {
@@ -15,10 +15,9 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(48, 89, 122);
+    background-color: rgb(0, 0, 0);
     position: sticky;
-    top: 0;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 li {
@@ -29,25 +28,61 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 85px 50px;
     text-decoration: none;
 }
   
 li a:hover {
-    background-color: #B9D5FD;
+    background-color:#E96D6D;
 }
 
 footer{
     display: block;
-    background-color: rgb(48, 89, 122);
+    background-color: #E96D6D;
     text-align: center;
     border: 10px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
-p{
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-    width: ;
-    margin-left: 150px;
-    margin-right: 150px;
+.yourElement {
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+  }
+  #clickableAwesomeFont {
+    cursor: pointer
+    
+}
+.shoppingcart{
+    color: white;
+    margin: 6px;
+    padding-top: 65px;
+    float: right;
+    padding-right: 30px;
+}
+.tekst1{ 
+    text-align: left;   
+    margin-left: 500px;
+
+
+ 
+}
+
+.logo{
+    float: left;
+}
+.Welkom{
+    color: #E96D6D;
+    font-size: x-large;
+    padding-left: 500px;
+    
+    padding-top: 90px;
+
+}
+.pic1{
+    float: right;
+    margin-top: -400px;
+    padding-top: 90px;
+    padding-right: 500px;
+
 }
