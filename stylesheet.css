@@ -89,6 +89,20 @@ hr{
     height: 0;
     color:  #E96D6D;
 }
+.shoppingcart{
+    color: white;
+    margin: 6px;
+    padding-top: 65px;
+    float: right;
+    padding-right: 30px;
+}
+.tekst1{ 
+    text-align: left;   
+    margin-left: 500px;
+
+
+}
+
 
 .button {
     background-color: #4CAF50;
