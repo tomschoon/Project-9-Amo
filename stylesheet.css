@@ -34,6 +34,7 @@ li a {
   
 li a:hover {
     background-color:#E96D6D;
+<<<<<<< HEAD
 }
 
 
@@ -88,6 +89,8 @@ hr{
     width: 700px;
     height: 0;
     color:  #E96D6D;
+=======
+>>>>>>> 6ada0ad8bdabd0a0ae43865adae15b9b4e3f5ab5
 }
 
 .button {
@@ -139,5 +142,51 @@ hr{
     text-align: center;
     border: 10px;
     font-family: 'Roboto', sans-serif;
+<<<<<<< HEAD
+=======
+}
+
+.yourElement {
+    animation-duration: 3s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+  }
+  #clickableAwesomeFont {
+    cursor: pointer
+    
+}
+.shoppingcart{
+    color: white;
+    margin: 6px;
+    padding-top: 65px;
+    float: right;
+    padding-right: 30px;
+}
+.tekst1{ 
+    text-align: left;   
+    margin-left: 500px;
+
+
+ 
+}
+
+.logo{
+    float: left;
+}
+.Welkom{
+    color: #E96D6D;
+    font-size: x-large;
+    padding-left: 500px;
+    
+    padding-top: 90px;
+
+}
+.pic1{
+    float: right;
+    margin-top: -400px;
+    padding-top: 90px;
+    padding-right: 500px;
+
+>>>>>>> 6ada0ad8bdabd0a0ae43865adae15b9b4e3f5ab5
 }
  
